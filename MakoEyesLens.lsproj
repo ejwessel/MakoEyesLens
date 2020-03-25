@@ -3,7 +3,7 @@
     "document_id": "Cp6NscDJViYfXMcZmetz",
     "original_document_id": "Cp6NscDJViYfXMcZmetz",
     "version": "23",
-    "lastChanged": "1585146653988",
+    "lastChanged": "1585172457420",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -47,7 +47,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "d041481b4e0a5371316f1dbb75b9b791",
+            "icon_hash": "e82dd8e124245bffce39f23fb29cffc5",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
